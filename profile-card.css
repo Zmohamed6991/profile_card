@@ -1,0 +1,80 @@
+body{
+    background-color: white;
+    
+}
+
+#card{
+    border-style: solid;
+    border-color: darkolivegreen;
+    background-color: beige;
+    width: 500px;
+    font-family: helvetica;
+    margin: auto;
+    text-align: center;
+   
+    
+}
+
+#middle{
+    color: darkolivegreen;
+    font-weight: 100;
+    font-size: 17px;
+    font-family: Arial;
+
+}
+
+#head {
+    color: black;
+    font-style: italic;
+    font-weight: 100;
+    font-family: Georgia;
+    font-size: 40px;
+
+}
+
+#image{
+    width: 350px;
+    height: 350px;
+    padding-top: 30px;
+   justify-content: center;
+}
+.picture {
+    border-radius: 50px;
+
+}
+
+#info{
+    margin: 20px;
+    font-family: Georgia;
+    color: black;
+    font-weight: 100;
+    padding-bottom: 10px;
+   
+}
+a:link{
+    text-decoration: underline;   
+    text-align: center;
+    font-style: underline;
+    padding-right: 45px;
+    font-family: georgia;
+    font-size: 17px;
+    color: black;
+    
+
+}
+a:hover{
+    color: darkgrey;
+    cursor: pointer;
+    
+}
+
+
+li {
+    list-style-type: none;
+    text-align: center;
+    justify-content: space-between;
+    display: inline;
+    color: black;
+    padding-bottom: 20px;
+
+}
